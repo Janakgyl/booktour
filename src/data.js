@@ -4,20 +4,20 @@ const data = [
         name:"Jaipur",
         info:"quo porro voluptates ad. Natus laboriosam modi aut! Necessitatibus aliquam deserunt dolorum incidunt ipsum a quidem rem maxime",
         image:"https://cdn.thecodehelp.in/Jaipur.jpeg",
-        price:"29,995"
+        price:"39,995"
     },
     {
         id:2,
         name:"Goa",
         info:"quo porro voluptates ad. Natus laboriosam modi aut! Necessitatibus aliquam deserunt dolorum incidunt ipsum a quidem rem maxime",
         image:"https://cdn.thecodehelp.in/Goa.jpeg",
-        price:"29,995"
+        price:"49,995"
     },
     {
         id:3,
-        name:"Chennai",
+        name:"Jaisalmer",
         info:"quo porro voluptates ad. Natus laboriosam modi aut! Necessitatibus aliquam deserunt dolorum incidunt ipsum a quidem rem maxime",
-        image:"https://cdn.thecodehelp.in/Chennai.jpeg",
+        image:"https://cdn.thecodehelp.in/Jaisalmer.jpeg",
         price:"29,995"
     },
     {
@@ -25,14 +25,14 @@ const data = [
         name:"Agra",
         info:"quo porro voluptates ad. Natus laboriosam modi aut! Necessitatibus aliquam deserunt dolorum incidunt ipsum a quidem rem maxime",
         image:"https://cdn.thecodehelp.in/Agra.jpeg",
-        price:"29,995"
+        price:"19,905"
     },
     {
         id:5,
-        name:"Varanasi",
+        name:"Darjeeling",
         info:"quo porro voluptates ad. Natus laboriosam modi aut! Necessitatibus aliquam deserunt dolorum incidunt ipsum a quidem rem maxime",
-        image:"https://cdn.thecodehelp.in/varanasi.jpeg",
-        price:"29,995"
+        image:"https://cdn.thecodehelp.in/Darjeeling.jpeg",
+        price:"49,995"
     }
 ]
 

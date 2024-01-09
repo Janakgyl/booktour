@@ -13,9 +13,10 @@ function Cards({id, name, info, price, image, removeTour}) {
   return (
     <div>
       <div className="card">
-        <img src={image} className="image"></img>
+      <img src={image} className="image" alt=""></img>
+ 
         <div className="tour-details">
-            <div className="tour-price">{price}</div>
+            <div className="tour-price">Rs. {price}</div>
             <div className="tour-info">{name}</div>
         </div>
         <div className="description">{description}
